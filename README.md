@@ -14,4 +14,6 @@
 - <b>Data Science</b>
   - TBD
 - <b>Data Visualizations</b>
-  - TBD
+  - <a href="https://github.com/mfisher910/portfolio/CaliforniaHospDash.png">California Hospitals Dashboard</a>
+  - <a href="https://github.com/mfisher910/portfolio/RevenueExpenses.png">Revenue/Expenses Dashboard</a>
+  
